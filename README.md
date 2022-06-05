@@ -5,7 +5,8 @@ python3.8
 使用pip3 install selenium命令安装selenium
 Chrome浏览器
 Chrome驱动
-驱动文件位置chromedriver_mac64.zip
+https://chromedriver.storage.googleapis.com/index.html
+驱动版本需要按本机Chrome版本自行选择
 ## 使用方法
 确定自己的分享连接后将sele.py中的url修改为自己的连接地址
 使用命令
