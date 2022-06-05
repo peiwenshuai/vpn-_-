@@ -3,8 +3,8 @@
 ## 环境需求
 python3.8 
 使用pip3 install selenium命令安装selenium
-Chrome浏览器
-Chrome驱动
+### Chrome浏览器
+### Chrome驱动
 https://chromedriver.storage.googleapis.com/index.html
 驱动版本需要按本机Chrome版本自行选择
 ## 使用方法
