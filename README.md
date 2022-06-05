@@ -14,3 +14,4 @@ https://chromedriver.storage.googleapis.com/index.html
 输入任意字符串用来构建随机邮箱字符必须是英文
 输入需要邀请的人数，一个人会让vpn自动续费两天
 ## 程序会自动启动Chrome，在此期间不要关闭Chrome。完成进程后vpn会自动续费
+# 本脚本程序只适用于特定软件，如需咨询可以联系作者邮箱peiwenshuai@outlook.com
